@@ -1,6 +1,6 @@
 package practice1;
 
-//첫 번째로 나오는 음수
+//첫 번째로 나오는 음수(배열)
 public class P5 {
 
     public static void main(String[] args) {
