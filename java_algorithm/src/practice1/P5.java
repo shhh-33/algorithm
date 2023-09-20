@@ -17,7 +17,7 @@ public class P5 {
     	        	if(num_list[i] < 0) {
     	        		answer = i;
     	        		System.out.println(answer);
-    	        		break;
+    	        		break;//
     	        	}
     	        }
     	        
